@@ -1,2 +1,2 @@
-# 前端周报 --- FrontendWeekly
+# 前端周报 
 
